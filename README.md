@@ -12,7 +12,8 @@ Reviews: Performed sentiment analysis on total data set and created training mod
 Various models were employed to understand relationships and predict price.
 
 Link to Tableau - Quick Overview of Data 
-https://public.tableau.com/profile/soumya.murali#!/vizhome/new_final_project/Story1?publish=yes
+https://public.tableau.com/profile/soumya.murali#!/vizhome/final_project_send/SatelliteviewofAirbnblisting-DublinIreland
+
 
 # Tools and Libraries Utilized
 + Tableau
