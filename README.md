@@ -34,6 +34,7 @@ https://public.tableau.com/profile/soumya.murali#!/vizhome/final_project_send/Sa
 + *Reviews-Copy1* - Initial review model (biased), using VADER and Multinomical Naive Bayes as test models
 + *Unbiased_Model_Reviews* - Final review model with working test models
 + *All Reviews* - Applied Vader to entire data set to create positive/negative classification
+  link to the entire data set for All Reviews (https://drive.google.com/file/d/1SCsNxXQRmAW-A5lT4MFnAoSfOxssm-pp/view?usp=sharing)
 
   Folder (AIR_BNB_GITHUB_1)
  + *air_bnb_price_affordability* - Finding the Average Price based on room type, neighbourhood, and listing id.
